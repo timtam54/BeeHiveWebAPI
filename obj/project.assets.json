@@ -10192,11 +10192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/timhams/Downloads/drive-download-20230228T101656Z-001/BeeHive/BeeHive.csproj",
+      "projectUniqueName": "/Users/timhams/Downloads/drive-download-20230228T101656Z-001/BeeHive/BeeHiveWebAPI/BeeHive.csproj",
       "projectName": "BeeHive",
-      "projectPath": "/Users/timhams/Downloads/drive-download-20230228T101656Z-001/BeeHive/BeeHive.csproj",
+      "projectPath": "/Users/timhams/Downloads/drive-download-20230228T101656Z-001/BeeHive/BeeHiveWebAPI/BeeHive.csproj",
       "packagesPath": "/Users/timhams/.nuget/packages/",
-      "outputPath": "/Users/timhams/Downloads/drive-download-20230228T101656Z-001/BeeHive/obj/",
+      "outputPath": "/Users/timhams/Downloads/drive-download-20230228T101656Z-001/BeeHive/BeeHiveWebAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/timhams/.nuget/NuGet/NuGet.Config"
